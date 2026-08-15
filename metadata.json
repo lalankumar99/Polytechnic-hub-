@@ -1,0 +1,6 @@
+{
+  "name": "POLYTECHNIC HUB",
+  "description": "Professional Polytechnic Digital Study Library with folder-based note management, PDF & HTML readers, and admin file manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
